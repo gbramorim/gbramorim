@@ -13,5 +13,5 @@ Senior Software Engineer focused on:
 - **[NASA Space Apps Challenge 2021](https://github.com/gbramorim/unlock-the-secrets-of-sun)** - NASA Hackathon Regional Winner, [Global Nominee](https://2021.spaceappschallenge.org/challenges/statements/you-are-my-sunshine/teams/zero-science-2/project).
 - **[Rufus - Automatic Pet Feeder](https://github.com/gbramorim/Rufus)** - Automatic Pet Feeder - Academic Project
 
-
+### Connect with me:
 - [LinkedIn](https://linkedin.com/in/gvfa)
