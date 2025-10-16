@@ -23,9 +23,8 @@ Senior Software Engineer focado em **Go**, **Node.js** e **React com TypeScript*
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbramorim&show_icons=true&theme=dark)
 
 ## Conecte-se comigo
 
-- [LinkedIn](https://linkedin.com/in/seu_perfil)
-- [Twitter](https://twitter.com/seu_usuario)
+- [LinkedIn](https://linkedin.com/in/gvfa)
